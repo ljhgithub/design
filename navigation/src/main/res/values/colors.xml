@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--text-->
+    <color name="ps_red">#FF0000</color>
+    <color name="ps_white">#FFFFFF</color>
+
+    <!--background-->
+    <color name="ps_gray_d9d9d9">#d9d9d9</color>
+    <color name="ps_gray">#333333</color>
+    <color name="ps_gray_b8b8b8">#B8B8B8</color>
+</resources>
